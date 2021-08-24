@@ -1,10 +1,10 @@
 # DockerDemo
 Docker demo using Spring Boot for CICD
-##Things to Do
+##Things Done:
 ##1.Created Repo
 ##2.start.spring.io - dependencies added
 ##3.Repo cloned
-To Do
+##To Do:
 ##4.connect to Mysql
 ##5.Run appln locally
 ##6.Create Doctor & Hospital Entities
