@@ -1,0 +1,4 @@
+com\tekarch\dockerDemo\DockerDemoApplication.class
+com\tekarch\dockerDemo\Entity\Doctor.class
+com\tekarch\dockerDemo\Controller\DoctorController.class
+com\tekarch\dockerDemo\Repository\DoctorRepository.class

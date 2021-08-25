@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.tekarch.dockerDemo.DockerDemoApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 37.833 s - in com.tekarch.dockerDemo.DockerDemoApplicationTests

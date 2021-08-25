@@ -9,11 +9,12 @@ Docker demo using Spring Boot for CICD
 ##5.Run appln locally
 ##6.Create Doctor & Hospital Entities
 ##7.Test Using Postman
+##8.Build a jar file using Maven
+##9.Run without IntelliJ
 
 ##To Do:
 
-##8.Build a jar file using Maven
-##9.Run without IntelliJ
+
 ##10.Create Docker Image
 ##11.Run Docker Image to create a Docker Container
 ##12.Publish Docker Image to Cloud
